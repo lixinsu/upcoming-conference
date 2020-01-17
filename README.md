@@ -9,7 +9,7 @@
 | UAI 2020   | Feb 20, 2020    |   May 14th, 2020 |    Toronto, Ontario, Canada.  |
 | SIGIR 2020 short  | Feb 23, 2020    |   Apr 22, 2020 |    Xi'an, China  |
 | ECML-PKDD 2020   | Mar 26, 2020    |   June 04, 2020 |    Ghent, Belgium  |
-| COLING 2020   | 8 Apr 2020    |   June 10, 2020 |    BARCELONA  |
+| COLING 2020   | Apr 8, 2020    |   June 10, 2020 |    BARCELONA  |
 | CIKM 2020   | May 1, 2020    |   July 3, 2020 |     Galway, Ireland   |
 | EMNLP 2020   | May 8, 2020    |   Aug 8, 2020 |    Punta Cana, Dominican Republic  |
 | ICTIR 2020   | May, 2020    |  June 2020 |     STAVANGER, NORWAY  |
